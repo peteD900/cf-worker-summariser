@@ -1,0 +1,11 @@
+{
+  "name": "cf-worker-summariser",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-06-21",
+  "compatibility_flags": [],
+  "triggers": {
+    "email": {
+      "enabled": true
+    }
+  }
+}
